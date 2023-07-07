@@ -62,7 +62,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [ActionDesk](https://actiondesk.io) - The spreadsheet that lets you gather and control all your data in one place.
 - [Activepieces](https://www.activepieces.com) - A no-code tool to automate your business.
 - [Automate.io](https://automate.io) - Put your business on autopilot. Connect 100+ business apps.
-- [Blockspring](https://blockspring.com) - Supercharge your list building, reporting, and landing pages.
+- [coefficient.io](https://coefficient.io/) - Automatically import your data into Google Sheets.
 - [Clay](https://clay.run) - Build tools & workflows to supercharge your team
 - [Cronit](https://cronit.app) - Plan, schedule and run recurring cron jobs online
 - [IFTTT](https://ifttt.com) - Do more with the services you love.
